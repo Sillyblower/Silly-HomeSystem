@@ -1,0 +1,15 @@
+{
+  "name": "Silly HomeSystem",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.1.1",
+ 	"pug": "*",
+    "node-php-server": "^0.1.2",
+    "omxcontrol": "*",
+    "socket.io": "0.9.14"
+  }
+}
